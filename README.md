@@ -4,38 +4,38 @@ This project implements a modular data processing pipeline that achieves 90% acc
 
 #### ✨ Features
 
-⚙️ Modular Data Processing Pipeline - Ensures efficient and accurate data transformation.
+* ⚙️ Modular Data Processing Pipeline - Ensures efficient and accurate data transformation.
 
-🗃️ Normalized Database Schemas - Optimized for efficient data storage and retrieval.
+* 🗃️ Normalized Database Schemas - Optimized for efficient data storage and retrieval.
 
-🔄 Automated ETL Processes - Handles 20+ different data types and formats in real-time.
+* 🔄 Automated ETL Processes - Handles 20+ different data types and formats in real-time.
 
-📊 Data Visualization Dashboards - Built using Matplotlib and Seaborn for monitoring and analysis.
+* 📊 Data Visualization Dashboards - Built using Matplotlib and Seaborn for monitoring and analysis.
 
 #### 🛠️ Tech Stack
 
-🐍 Python
+* 🐍 Python
 
-🗄️ SQL
+* 🗄️ SQL
 
-📊 Data Modeling
+* 📊 Data Modeling
 
-🔄 ETL Pipeline Development
+* 🔄 ETL Pipeline Development
 
-📈 Data Visualization
+* 📈 Data Visualization
 
-🤖 Process Automation  
+* 🤖 Process Automation  
 
 #### 📂 Supported Data Formats  
 
-CSV, JSON, XML, Parquet, Avro, ORC, Excel
+* CSV, JSON, XML, Parquet, Avro, ORC, Excel
 
-DICOM, JPEG, PNG, TIFF
+* DICOM, JPEG, PNG, TIFF
 
-TXT, PDF, DOCX
+* TXT, PDF, DOCX
 
-MySQL, PostgreSQL, SQLite
+* MySQL, PostgreSQL, SQLite
 
-API Data (REST, SOAP)
+* API Data (REST, SOAP)
 
-Sensor Data, IoT Data
+* Sensor Data, IoT Data
