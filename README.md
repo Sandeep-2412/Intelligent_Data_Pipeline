@@ -24,4 +24,18 @@ This project implements a modular data processing pipeline that achieves 90% acc
 
 📈 Data Visualization
 
-🤖 Process Automation
+🤖 Process Automation  
+
+#### 📂 Supported Data Formats  
+
+CSV, JSON, XML, Parquet, Avro, ORC, Excel
+
+DICOM, JPEG, PNG, TIFF
+
+TXT, PDF, DOCX
+
+MySQL, PostgreSQL, SQLite
+
+API Data (REST, SOAP)
+
+Sensor Data, IoT Data
